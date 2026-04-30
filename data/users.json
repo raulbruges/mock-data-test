@@ -1,5 +1,7 @@
 [
-  {"id": 1, "name": "Ana Garcia", "email": "ana@example.com", "role": "admin", "active": true},
-  {"id": 2, "name": "Carlos Lopez", "email": "carlos@example.com", "role": "user", "active": true},
-  {"id": 3, "name": "Maria Martinez", "email": "maria@example.com", "role": "user", "active": false}
+  {"id": 1, "name": "Ana Garcia", "email": "ana@example.com", "role": "admin", "active": true, "plan": "pro", "joined": "2024-01-15"},
+  {"id": 2, "name": "Carlos Lopez", "email": "carlos@example.com", "role": "user", "active": true, "plan": "free", "joined": "2024-02-20"},
+  {"id": 3, "name": "Maria Martinez", "email": "maria@example.com", "role": "user", "active": false, "plan": "free", "joined": "2024-03-10"},
+  {"id": 4, "name": "Pedro Sanchez", "email": "pedro@example.com", "role": "editor", "active": true, "plan": "pro", "joined": "2024-04-05"},
+  {"id": 5, "name": "Laura Gomez", "email": "laura@example.com", "role": "user", "active": true, "plan": "pro", "joined": "2025-01-12"}
 ]
