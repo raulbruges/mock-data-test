@@ -1,5 +1,8 @@
 [
-  {"id": 1, "name": "Laptop Pro", "price": 1299.99, "stock": 45, "category": "electronics"},
-  {"id": 2, "name": "Teclado Mecanico", "price": 89.99, "stock": 120, "category": "electronics"},
-  {"id": 3, "name": "Monitor 4K", "price": 499.99, "stock": 30, "category": "electronics"}
+  {"id": 1, "name": "Laptop Pro", "price": 1299.99, "stock": 45, "category": "electronics", "rating": 4.8, "sku": "LAP-001"},
+  {"id": 2, "name": "Teclado Mecanico", "price": 89.99, "stock": 120, "category": "electronics", "rating": 4.5, "sku": "TEC-002"},
+  {"id": 3, "name": "Monitor 4K", "price": 499.99, "stock": 30, "category": "electronics", "rating": 4.7, "sku": "MON-003"},
+  {"id": 4, "name": "Raton Inalambrico", "price": 39.99, "stock": 200, "category": "electronics", "rating": 4.3, "sku": "RAT-004"},
+  {"id": 5, "name": "Auriculares BT", "price": 149.99, "stock": 75, "category": "audio", "rating": 4.6, "sku": "AUR-005"},
+  {"id": 6, "name": "Webcam HD", "price": 69.99, "stock": 0, "category": "electronics", "rating": 4.1, "sku": "CAM-006"}
 ]
