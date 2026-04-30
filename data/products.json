@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Laptop Pro", "price": 1299.99, "stock": 45, "category": "electronics"},
+  {"id": 2, "name": "Teclado Mecanico", "price": 89.99, "stock": 120, "category": "electronics"},
+  {"id": 3, "name": "Monitor 4K", "price": 499.99, "stock": 30, "category": "electronics"}
+]
